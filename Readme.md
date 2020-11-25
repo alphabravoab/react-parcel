@@ -6,7 +6,7 @@ Everything else you want you can add it just as you want.
 
 
 # getting started
-1. git clone https://github.com/alphabravoab/react-parcel.git (or fork this repo to your own)
+1. git clone https://github.com/alphabravoab/react-parcel.git (or use this template)
 1.  cd react-parcel
 1. npm i
 1. npm start
